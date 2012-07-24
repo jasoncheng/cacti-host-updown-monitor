@@ -1,8 +1,11 @@
 {
+  "name": "cacti-host-updown",
   "version": "0.0.1",
-  "name": "cacti-host-updown-gmail-notify",
-  "description": "Send alarm email when server host down",
+  "preferGlobal": true,
+  "description": "If use cacti, this node module will send alarm email when server host down",
   "author": "JasonCheng <info@JasonCheng.tw>",
+  "homepage": "http://jasoncheng.tw",
+  "keywords": ["cacti", "monitor", "updown", "alarm"],
   "dependencies": {
     "flow":        ">=0.2.2",
     "sequelize":   ">=1.3.7",
@@ -11,7 +14,7 @@
   "main": "cacti",
   "repository": {
     "type": "git",
-    "url":  "git://github.com/jasoncheng/cacti-host-updown-gmail-notify.git"
+    "url":  "https://github.com/jasoncheng/cacti-host-updown-monitor.git"
   },  
   "engines": ">=0.6.x"
 }

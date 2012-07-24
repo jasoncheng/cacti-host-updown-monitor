@@ -20,6 +20,7 @@ Install
 =================
 
 
+    $ cd /usr/share/cacti/node_modules/cacti-host-updown
     $ cp config.tmp.js config.js
     $ vim config.js
     $ npm install
