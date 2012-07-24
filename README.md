@@ -1,7 +1,7 @@
 cacti-host-updown-gmail-notify
 ==============================
 
-This is a very very very simple <code>NodeJS</code> code, for personal use; if u like, just use it!
+This is a very very very simple [NodeJS](http://nodejs.org) code, for personal use; if u like, just use it!
 
 What for
 =================
@@ -19,10 +19,9 @@ When will send alarm email
 Install
 =================
 
-`
-    $cp config.tmp.js config.js
-    $vim config.js
-    $npm install
-    $node cacti
-`
+
+    $ cp config.tmp.js config.js
+    $ vim config.js
+    $ npm install
+    $ node cacti
 
