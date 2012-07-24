@@ -1,7 +1,7 @@
 cacti-host-updown-gmail-notify
 ==============================
 
-This is a very very very simple [NodeJS](http://nodejs.org) code, for personal use; if u like, just use it!
+This is a very very very simple [NodeJS](http://nodejs.org) code, for myself use; if u like, just use it!
 
 What for
 =================
