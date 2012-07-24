@@ -1,8 +1,8 @@
 {
-  "name": "cacti-host-updown",
+  "name": "cacti-host-updown-monitor",
   "version": "0.0.1",
   "preferGlobal": true,
-  "description": "If use cacti, this node module will send alarm email when server host down",
+  "description": "If use cacti, this node module will send alarm email when server down",
   "author": "JasonCheng <info@JasonCheng.tw>",
   "homepage": "http://jasoncheng.tw",
   "keywords": ["cacti", "monitor", "updown", "alarm"],
